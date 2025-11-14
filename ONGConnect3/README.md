@@ -62,16 +62,21 @@ HTML5, CSS3, JavaScript, Flexbox, Grid, Git, GitHub Pages
 
 ## 💡 Como Executar
 ```
-git clone https://github.com/nicollassant/atividadeFrontEnd.git
-cd plataforma-ong
-Abra o VS code, instale a extensão "Live Server", abra a pasta ONGConnect3, clique com o botão direito em cima do index e escolha a primeira opção "Open With Live Server"
+git clone https://github.com/CauaAndradeX/Entrega3.git
+cd Entrega3
+cd ONGConnect3
+
+Abra o VS code, instale a extensão "Live Server",
+abra a pasta ONGConnect3, clique com o botão direito
+em cima do index e escolha a primeira opção "Open With Live Server"
 ```
 
 ## 👨‍💻 Autores
-**Nicollas Santana de Sousa e Cauâ Andrade da Silva**  
+**Nicollas Santana de Sousa e Cauã de Andrade Silva**  
 Desenvolvedores Front-End | Entusiastas de Acessibilidade e Web Performance
 
 ## 📝 Licença
 Licença MIT — uso livre para aprendizado.
 
 > “Transformando código em impacto social.”
+
